@@ -44,6 +44,7 @@ Elevates the device risk score and enforces mitigation measures like MFA.
 Prevents compromised devices from accessing sensitive organizational data.
 
 Technology Stack
+
 The project was built using the following technology stack:
 
 Frontend: HTML5, JavaScript, JQuery.
