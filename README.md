@@ -28,7 +28,7 @@ Prompts Multi-Factor Authentication (MFA) for users exhibiting impossible travel
 Identifies logins from anonymous browsers (e.g., TOR) or masked IP addresses.
 Increases the user's risk score and enforces additional authentication steps.
 Triggers mitigative actions like MFA or temporary access restrictions.
-3. Atypical User Sign-In Behavior
+3. A typical User Sign-In Behavior
 Monitors user sign-in behavior based on:
 Location: Flags logins from unfamiliar geographic locations.
 Browser: Detects sign-ins from unknown or unregistered browsers.
